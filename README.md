@@ -1,7 +1,7 @@
 # 👨‍💻 Armando G. T.
 
 **Desenvolvedor Back-end** | Cursando **Análise e Desenvolvimento de Sistemas** (4º semestre) no IFRO  
-🚀 Apaixonado por desenvolvimento web full-stack, configuração de redes e banco de dados
+🚀 Desenvolvimento web full-stack, configuração de redes e banco de dados
 
 ---
 
