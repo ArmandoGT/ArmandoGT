@@ -81,7 +81,7 @@ Desenvolvedor em formação com foco em **backend** e **arquitetura de sistemas*
 Tenho interesse em colaborar em projetos open-source, internships e discussões sobre desenvolvimento de sistemas. Sinta-se à vontade para entrar em contato!
 
 <p align="left">
-  <a href="[https://linkedin.com/in/armando-gt](https://www.linkedin.com/in/armandogt)" target="_blank">
+  <a href="https://www.linkedin.com/in/armandogt" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:armandogiordani1@gmail.com" target="_blank">
@@ -96,5 +96,5 @@ Tenho interesse em colaborar em projetos open-source, internships e discussões 
 
 <div align="center">
   
-**"Veja além da folha 🍃 perceba a floresta."** ☕💻
+**"Veja além da folha 🍃 perceba a floresta."**
 </div>
