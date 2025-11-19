@@ -17,45 +17,11 @@ Desenvolvedor em formação com foco em **backend** e **arquitetura de sistemas*
 
 ## 🛠️ Linguagens e Ferramentas
 
-### 💻 Backend & Frameworks
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="50" height="50"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git,linux,flutter" />
 </p>
 
-### 🗄️ Banco de Dados
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
-  </a>
-</p>
-
-### 🎨 Frontend
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
-  </a>
-</p>
-
-### 🔧 Ferramentas & Versionamento
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a>
-</p>
+---
 
 ## 🎓 Atualmente Aprendendo
 
