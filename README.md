@@ -32,13 +32,11 @@ Desenvolvedor em formação com foco em **backend** e **arquitetura de sistemas*
 
 ## 📊 Estatísticas
 
-<a href="https://github.com/ArmandoGT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmandoGT&theme=github_dark&show_icons=true&count_private=true" alt="GitHub Stats"/>
-</a>
+<a href="https://github.com/ArmandoGT"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmandoGT&theme=github_dark&show_icons=true&count_private=true" alt="GitHub Stats"/></a>
 
-<a href="https://github.com/ArmandoGT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoGT&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages"/>
-</a>
+<a href="https://github.com/ArmandoGT"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoGT&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages"/></a>
+
+---
 
 ---
 
