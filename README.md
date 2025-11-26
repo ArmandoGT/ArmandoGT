@@ -1,34 +1,18 @@
 # 👨‍💻 Armando G. T.
 
-**Desenvolvedor Back-end** | Cursando **Análise e Desenvolvimento de Sistemas** (4º semestre) no IFRO  
-🚀 Desenvolvimento web full-stack, configuração de redes e banco de dados
-
----
-
-## 🎯 Sobre Mim
-
-Desenvolvedor em formação com foco em **backend** e **arquitetura de sistemas**. Tenho experiência em configuração de redes IPv4, administração de banco de dados (MySQL) e implementação de segurança de trabalho (Técnico em Segurança do Trabalho). Busco oportunidades de **internship/entry-level em TI** enquanto aprimoro minhas habilidades em desenvolvimento full-stack.
-
 📍 **Ariquemes, Rondônia - Brasil**  
 💼 **Status**: Buscando oportunidades de internship/entry-level  
 🎓 **Formação**: ADS (IFRO - 4º semestre) | Técnico em Segurança do Trabalho
 
 ---
 
-## 🛠️ Linguagens e Ferramentas
+## 🛠️ Languages and Tools:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git,linux,flutter" />
 </p>
 
 ---
-
-## 🎓 Atualmente Aprendendo
-
-- 🚀 **Full-stack development com Django**
-- 📊 **Design e otimização de bancos de dados**
-- 🔐 **Segurança em APIs REST**
-- ⚙️ **Arquitetura de sistemas escaláveis**
 
 ## 📊 Estatísticas
 
@@ -37,9 +21,7 @@ Desenvolvedor em formação com foco em **backend** e **arquitetura de sistemas*
 
 ---
 
-## 🤝 Vamos Conectar!
-
-Tenho interesse em colaborar em projetos open-source, internships e discussões sobre desenvolvimento de sistemas. Sinta-se à vontade para entrar em contato!
+## 🤝 Let's connect? 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/armandogt" target="_blank">
