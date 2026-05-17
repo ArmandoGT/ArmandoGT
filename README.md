@@ -1,7 +1,6 @@
 # 👨‍💻 Armando G. T.
 
 📍 **Ariquemes, Rondônia - Brasil**  
-💼 **Status**: Buscando oportunidades de internship/entry-level  
 🎓 **Formação**: ADS (IFRO - 5º semestre) | Técnico em Segurança do Trabalho
 
 ---
